@@ -1,5 +1,5 @@
 # > TikTok
-USER-AGENT,TikTok*,Streaming
+USER-AGENT,TikTok*,TIKTOK
 DOMAIN-SUFFIX,byteoversea.com,Streaming
 DOMAIN-SUFFIX,ibytedtos.com,Streaming
 DOMAIN-SUFFIX,muscdn.com,Streaming
