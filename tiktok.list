@@ -1,11 +1,11 @@
 # > TikTok
 USER-AGENT,TikTok*,TIKTOK
-DOMAIN-SUFFIX,byteoversea.com,Streaming
-DOMAIN-SUFFIX,ibytedtos.com,Streaming
-DOMAIN-SUFFIX,muscdn.com,Streaming
-DOMAIN-SUFFIX,musical.ly,Streaming
-DOMAIN-SUFFIX,tiktok.com,Streaming
-DOMAIN-SUFFIX,tik-tokapi.com,Streaming
-DOMAIN-SUFFIX,tiktokcdn.com,Streaming
-DOMAIN-SUFFIX,tiktokv.com,Streaming
-DOMAIN-KEYWORD,-tiktokcdn-com,Streaming
+DOMAIN-SUFFIX,byteoversea.com,TIKTOK
+DOMAIN-SUFFIX,ibytedtos.com, TIKTOK
+DOMAIN-SUFFIX,muscdn.com, TIKTOK
+DOMAIN-SUFFIX,musical.ly, TIKTOK
+DOMAIN-SUFFIX,tiktok.com, TIKTOK
+DOMAIN-SUFFIX,tik-tokapi.com, TIKTOK
+DOMAIN-SUFFIX,tiktokcdn.com, TIKTOK
+DOMAIN-SUFFIX,tiktokv.com, TIKTOK
+DOMAIN-KEYWORD,-tiktokcdn-com, TIKTOK
