@@ -1,5 +1,5 @@
 #tidal 分流
-DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,TIDAL
+
 DOMAIN-SUFFIX，tidal.com,TIDAL
 DOMAIN-SUFFIX，tidalhifi.com,TIDAL
 DOMAIN-SUFFIX，wimpmusic.com,TIDAL
